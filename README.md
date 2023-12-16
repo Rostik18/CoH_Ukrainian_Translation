@@ -5,7 +5,7 @@ Company of Heroes українською, українська локаліза�
 
 Переклад неофіційний, роботи все ще тривають, можливі помилки в перекладі
 
-Перекладено лінійок 22000 з 22629
+Перекладено лінійок 22629 з 22629
 
 Щоб встановити замініть 'RelicCOH.English.ucs' файл з папки
 '..\Company of Heroes Relaunch\CoH\Engine\Locale\English'
@@ -19,10 +19,8 @@ StuH
 Sdkfz
 Pnzr
 Hummel
-Marder
 Motorpool - мотопул
 Небель
-Сектори
 Flak 88
 Pak 38
 Panzerwagen
@@ -30,27 +28,17 @@ Panzerwagen
 Gewehr
 Hetzer
 Bergetiger
-Wirbelwind
 Geschutzwagen
 Оствінд ???
-Hotchkiss
 Flammenwerfer - вогнемет?
-Штільгранат
-Hamilcar
 Wirblewind
-Ultra
-Stuka
+Stuka - Штука
 Petard
 Piper
-Kettenkrad
-Typhoon
-Thunderbolt
 Phased Up
 1414
 561758 < One bar
 LAN - Локальна мережа
-1 на 1
-1v1
 Смерть осідлала танк - Смерть настигла танк?
 Серія
 Causeway - дамба?
